@@ -4,8 +4,6 @@ hi, my name is
 Hey! I am <strong> Anmol</strong>.Coding has changed my life. It's not just about apps. Learning coding gave me <i>problem solving skills</i>
 and a way to communicate with each other on a technical level.</big></p>
 <p align="right"> Declare variables,not war.</p>
-<marquee> CREATED BY:ANMOL SHARMA </marquee>
-<br>
 <br>
 <h1 ALIGN="CENTER" STYLE="background-color:tomato;"> My Skills </h1> <br>
 <ul>
@@ -13,3 +11,5 @@ and a way to communicate with each other on a technical level.</big></p>
 <li> CSS </li> <br>
 <li> JAVASCRIPT </li>
 </ul>
+<br>
+<marquee> CREATED BY:ANMOL SHARMA </marquee>
