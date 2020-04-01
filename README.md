@@ -1,3 +1,6 @@
+<html>
+  <head> </head>
+  <body>
 hi, my name is 
 <h1>ANMOL SHARMA</H1>
 <p><big>
@@ -13,3 +16,5 @@ and a way to communicate with each other on a technical level.</big></p>
 </ul>
 <br>
 <marquee> CREATED BY:ANMOL SHARMA </marquee>
+  </body>
+  </html>
