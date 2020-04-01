@@ -1,6 +1,18 @@
+<!DOCTYPE html>
 <html>
-  <head> </head>
+  <head>
+    <meta name="viewport"
+content="width=device-width , initial-scale=1">
+<style>
+img {
+      border-radius: 50%;
+}
+</style>
+  </head>
   <body>
+    <img src="ak.png" alt="avatar" style="width:200px">
+    <br>
+    <br>
 hi, my name is 
 <h1>ANMOL SHARMA</H1>
 <p><big>
