@@ -35,11 +35,12 @@ and a way to communicate with each other on a technical level.</big></p>
 <img alt="https://anmol1023.github.io/sharmanmol/" src="git.png" weight="50px" height="50px"></a>
     <a href="https://www.instagram.com/iam_the_anmol/"> <img alt="instagram" src="instagram.jpg" weight="50px" height="50px"> </a>
     <br>
+    <br>
     <h1 ALIGN="CENTER" STYLE="background-color:tomato;"> Contact me </h1> <br>
-    <h3 ALIGN="CENTER"> Users?can contact us! </h3> </i>
+    <h3 ALIGN="CENTER"> Users?can contact us! </h3> 
 <i style="width:30px"> Saharanpur, Uttar pardesh </i> <br>
 <i style="width:30px"> PHONE: +9996630314 </i> <br>
-<i style="width:50px"> EMAIL: anmolsharma1023@gmail.com </i> <br>
+<i style="width:50px"> EMAIL: anmolsharma1023@gmail.com </i> <br><br>
     <marquee> CREATED BY:ANMOL SHARMA </marquee>
   </body>
   </html>
