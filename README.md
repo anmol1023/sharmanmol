@@ -33,6 +33,7 @@ and a way to communicate with each other on a technical level.</big></p>
 <a href="https://www.facebook.com/anmol.pandit.566"> <img alt="facebook" src="download.jpg" weight="50px" height="50px"></a>
 <a href="https://anmol1023.github.io/sharmanmol/">
 <img alt="https://anmol1023.github.io/sharmanmol/" src="git.png" weight="50px" height="50px"></a>
+    <a href="https://www.instagram.com/iam_the_anmol/"> <img alt="instagram" src="download(1).jpg" weight="50px" height="50px"></a>
     <br>
     <marquee> CREATED BY:ANMOL SHARMA </marquee>
   </body>
