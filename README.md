@@ -27,12 +27,13 @@ and a way to communicate with each other on a technical level.</big></p>
 <li> JAVASCRIPT </li>
 </ul>
 <br>
-<marquee> CREATED BY:ANMOL SHARMA </marquee>
     <br>
     <br>
     <h1 align="center" style="background-color:tomato;"> <span> Follow Me </span> </h1> <br>
-<a href="www.fb.com"> <img alt="facebook" src="download.jpg" weight="50px" height="50px"></a>
+<a href="https://www.facebook.com/anmol.pandit.566"> <img alt="facebook" src="download.jpg" weight="50px" height="50px"></a>
 <a href="https://anmol1023.github.io/sharmanmol/">
 <img alt="https://anmol1023.github.io/sharmanmol/" src="git.png" weight="50px" height="50px"></a>
+    <br>
+    <marquee> CREATED BY:ANMOL SHARMA </marquee>
   </body>
   </html>
